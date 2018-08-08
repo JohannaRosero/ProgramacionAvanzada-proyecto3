@@ -1,1 +1,0 @@
-sala.de.cine.Cinema
